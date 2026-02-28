@@ -58,6 +58,8 @@ platforms:
     # === 综合新闻媒体类 ===
     - id: "toutiao"
       name: "今日头条"
+    - id: "36kr"
+      name:"36氪"
     - id: "baidu"
       name: "百度热搜"
     - id: "thepaper"
